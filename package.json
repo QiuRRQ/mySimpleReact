@@ -10,9 +10,20 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "i": "^0.3.6",
     "jetifier": "^1.6.5",
     "react": "16.11.0",
-    "react-native": "0.62.0"
+    "react-devtools": "^4.6.0",
+    "react-native": "0.62.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^1.7.1",
+    "react-native-rn-cardview": "^1.0.4",
+    "react-native-router-flux": "^4.2.0",
+    "react-native-screens": "^2.4.0",
+    "react-native-shadow-cards": "^1.0.2",
+    "react-native-simple-card-view": "^0.3.0"
   },
   "devDependencies": {
     "@babel/core": "7.9.0",
